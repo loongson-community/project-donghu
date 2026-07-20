@@ -74,6 +74,6 @@ open source firmware-to-boot stage, save for key DDR/PHY binaries.
 License
 ---
 
-All materials found in this repository are all licensed under the
-[Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
+All materials found in this repository (unless otherwise specified) are all
+licensed under the [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
 license.

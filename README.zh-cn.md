@@ -65,4 +65,4 @@
 许可
 ---
 
-该项目的所有资料均使用[《CC BY-SA 4.0 署名—相同方式共享 4.0 协议国际版》](https://creativecommons.org/licenses/by-sa/4.0/)授权。
+除非特别指出，该项目的所有资料均使用[《CC BY-SA 4.0 署名—相同方式共享 4.0 协议国际版》](https://creativecommons.org/licenses/by-sa/4.0/)授权。
