@@ -3,7 +3,7 @@ Project Donghu
 
 [简体中文自述文件 >>](README.zh-cn.md)
 
-![Project Donghu Banner]()
+![Project Donghu Banner](/assets/header.webp)
 
 Meet Project Donghu, the first open-source motherboard based on the Loongson 3
 family of processors.
