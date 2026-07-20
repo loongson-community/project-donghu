@@ -9,18 +9,22 @@ Meet Project Donghu, the first open-source motherboard based on the Loongson 3
 family of processors.
 
 - Design Lead: Hengrui Zhang ([@Harry2005](https://github.com/Harry2005))
-- Contributors: [@C-zitong](https://github.com/C-zitong),
-  [@MingcongBai](https://github.com/MingcongBai), [@snowpiaoling](https://github.com/snowpiaoling),
-  [@xry111](https://github.com/xry111), [@yangwenqing](https://github.com/yangwenqing),
-  et. al.
-- Project Support and Fundng: [Loongson Hobbyists' Community](https://loongfans.cn/)
+- Contributors: [@C-zitong](https://github.com/C-zitong), [@MingcongBai](https://github.com/MingcongBai), [@snowpiaoling](https://github.com/snowpiaoling), [@xry111](https://github.com/xry111), [@yangwenqing](https://github.com/yangwenqing), et. al.
+- Project Support and Funding: [Loongson Hobbyists' Community](https://loongfans.cn/)
 
 Introduction
 ---
 
-This project aims to develop a motherboard design that can serve as an alternative to the 
-[Loongson XB612B0_V1.2](https://loongfans.cn/en/devices/loongson-xb612b0-v1.2)
-motherboard currently available on the market. Like the existing model, this motherboard is equipped with a Loongson 3B6000 processor but features an enhanced core power supply circuit with the potential to support overclocking. It also comes with 4 DDR4 DIMM slots, providing a more flexible upgrade path. Most notably, the motherboard distinguishes itself by incorporating the IX7012 PCIe 3.0 bridge from Innosilicon, which has a significantly smaller physical footprint and much lower power consumption than the Loongson 7A2000.
+This project aims to develop a motherboard design that can serve as an
+alternative to the [Loongson XB612B0_V1.2](https://loongfans.cn/en/devices/loongson-xb612b0-v1.2)
+motherboard currently available on the market. Like the existing model, this
+motherboard is equipped with a Loongson 3B6000 processor but features an
+enhanced core power supply circuit with the potential to support overclocking.
+It also comes with 4 DDR4 DIMM slots, providing a more flexible upgrade path.
+
+Most notably, the motherboard distinguishes itself by incorporating the IX7012
+PCIe 3.0 bridge from Innosilicon, which has a significantly smaller physical
+footprint and lower power consumption than the Loongson 7A2000.
 
 ### Key Specifications
 
