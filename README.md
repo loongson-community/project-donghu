@@ -18,22 +18,16 @@ family of processors.
 Introduction
 ---
 
-Project Donghu is meant as an alternative design to the commonly found
+This project aims to develop a motherboard design that can serve as an alternative to the 
 [Loongson XB612B0_V1.2](https://loongfans.cn/en/devices/loongson-xb612b0-v1.2)
-motherboard. It features the same Loongson 3B6000, but bolsters the power
-delivery as found on the XB612B0, enabling overclocking potentials. It also
-comes with 4 DDR4 DIMM slots, creating a more workable upgrade path.
-Additionally, it features - as rarely found amongst current Loongson 3-based
-motherboards - no Loongson 7A bridge chip. Instead, the board utilises an
-InnoSilicon IX7012 PCIe 4.0 switch, with a much smaller power and physical
-footprint.
+motherboard currently available on the market. Like the existing model, this motherboard is equipped with a Loongson 3B6000 processor but features an enhanced core power supply circuit with the potential to support overclocking. It also comes with 4 DDR4 DIMM slots, providing a more flexible upgrade path. Most notably, the motherboard distinguishes itself by incorporating the IX7012 PCIe 3.0 bridge from Innosilicon, which has a significantly smaller physical footprint and much lower power consumption than the Loongson 7A2000.
 
 ### Key Specifications
 
 - Processor: Loongson 3B6000 (soldered)
 - Form Factor: μATX (244×244mm)
 - Key design goals
-    - Bolstered power delivery - 7+1 phases (MP2975 + MP85956)
+    - Bolstered core power supply - 7+1 phases (MP2975 + MP85956)
     - Alternative bridge chip design based on the low-power InnoSilicon IX7012
       bridge chip, with 12 PCIe 4.0 downstream lanes.
     - Four DDR4 DIMM slots with support for Registered ECC modules.
