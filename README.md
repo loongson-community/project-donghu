@@ -8,10 +8,12 @@ Project Donghu
 Meet Project Donghu, the first open-source motherboard based on the Loongson 3
 family of processors.
 
-- Design Lead: Hengrui Zhang (@Harry2005)
-- Contributors: @C-zitong, @MingcongBai, @snowpiaoling, @xry111, @yangwenqing,
+- Design Lead: Hengrui Zhang ([@Harry2005](https://github.com/Harry2005))
+- Contributors: [@C-zitong](https://github.com/C-zitong),
+  [@MingcongBai](https://github.com/MingcongBai), [@snowpiaoling](https://github.com/snowpiaoling),
+  [@xry111](https://github.com/xry111), [@yangwenqing](https://github.com/yangwenqing),
   et. al.
-- Project Support and Fundng：[Loongson Hobbyists' Community](https://loongfans.cn/)
+- Project Support and Fundng: [Loongson Hobbyists' Community](https://loongfans.cn/)
 
 Introduction
 ---
@@ -55,16 +57,16 @@ Repository Structure
 
 ```
 .
-├── docs/		~ Project documentation
+├── docs/				~ Project documentation
 │   └── DATASHEETS.md		~ Datasheet references
-├── firmware/		~ Firmware sources and binaries
-├── hwdesign/		~ Hardware design files
-│   ├── pcb/			~ PCB design files
-│   └── schematics/		~ Schematics
-├── support/		~ End-user-facing documentation
-├── COPYING		~ License document (CC BY-SA 4.0)
-├── README.md		~ Read-me document (English)
-└── README.zh-cn.md	~ Read-me document (Simplified Chinese)
+├── firmware/			~ Firmware sources and binaries
+├── hwdesign/			~ Hardware design files
+│   ├── pcb/				~ PCB design files
+│   └── schematics/			~ Schematics
+├── support/			~ End-user-facing documentation
+├── COPYING				~ License document (CC BY-SA 4.0)
+├── README.md			~ Read-me document (English)
+└── README.zh-cn.md		~ Read-me document (Simplified Chinese)
 ```
 
 Firmware

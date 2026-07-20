@@ -1,4 +1,4 @@
-“东湖”开源主板计划
+龙芯 3B6000 开源主板项目（代号“东湖”）
 ===
 
 [英文自述文件 >>](README.md)
@@ -7,8 +7,10 @@
 
 “东湖”是首款基于龙芯 3 号家族处理器的开源主板设计。
 
-- 主要设计者：张恒瑞 (@Harry2005)
-- 贡献者：@C-zitong, @MingcongBai, @snowpiaoling, @xry111, @yangwenqing 等
+- 主要设计者：张恒瑞 ([@Harry2005](https://github.com/Harry2005))
+- 贡献者：[@C-zitong](https://github.com/C-zitong), [@MingcongBai](https://github.com/MingcongBai),
+  [@snowpiaoling](https://github.com/snowpiaoling), [@xry111](https://github.com/xry111),
+  [@yangwenqing](https://github.com/yangwenqing) 等
 - 项目支持方：[龙芯爱好者社区](https://loongfans.cn/)
 
 项目简介
@@ -43,16 +45,16 @@
 
 ``` 
 .
-├── docs/		~ 项目文档
-│   └── DATASHEETS.md		~ 数据手册引用列表
-├── firmware/           ~ 固件源码及二进制文件
-├── hwdesign/           ~ 硬件设计文件
-│   ├── pcb/                    ~ PCB 设计文件
-│   └── schematics/             ~ 原理图
-├── support/            ~ 最终用户文档
-├── COPYING             ~ 许可文书 (CC BY-SA 4.0)
-├── README.md           ~ 自述文档（英文）
-└── README.zh-cn.md     ~ 自述文档（中文）
+├── docs/				~ Project documentation
+│   └── DATASHEETS.md		~ Datasheet references
+├── firmware/			~ Firmware sources and binaries
+├── hwdesign/			~ Hardware design files
+│   ├── pcb/				~ PCB design files
+│   └── schematics/			~ Schematics
+├── support/			~ End-user-facing documentation
+├── COPYING				~ License document (CC BY-SA 4.0)
+├── README.md			~ Read-me document (English)
+└── README.zh-cn.md		~ Read-me document (Simplified Chinese)
 ```
 
 固件
