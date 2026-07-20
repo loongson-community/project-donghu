@@ -1,7 +1,7 @@
 Datasheets and References
 ===
 
-## Loongson
+## Loongson Technology
 
 | Part Number | Product Link                                               |
 | ----------- | ---------------------------------------------------------- |
@@ -24,7 +24,7 @@ Datasheets and References
 
 | Part Number     | Product Link                                                             |
 | --------------- | ------------------------------------------------------------------------ |
-| MP2975GU-0105-Z | NDA Parts, contact the manufacturer for more information.                                                                       |
+| MP2975GU-0105-Z | NDA Parts, contact the manufacturer for more information.                |
 | MP86956GMJ-Z    | [Product Page](https://www.monolithicpower.com/en/products/mp86956.html) |
 | MPQ8633AGLE-Z   | [Product Page](https://www.monolithicpower.com/en/mpq8633a.html)         |
 | MPQ8626GD-Z     | [Product Page](https://www.monolithicpower.com/en/products/mpq8626.html) |
@@ -76,13 +76,13 @@ Datasheets and References
 | Part Number  | Product Link                                                  |
 | ------------ | ------------------------------------------------------------- |
 | RTL8125BG-CG | [Product Page](https://www.realtek.com/Product/Index?id=3962) |
-| ALC4080-CG   | NDA Parts, contact the manufacturer for more information.                                                             |
+| ALC4080-CG   | NDA Parts, contact the manufacturer for more information.     |
 
-## Manufacturer Not Specified
+## Innosilicon Technology
 
 | Part Number | Product Link |
 | ----------- | ------------ |
-| IX7012      | NDA Parts, contact the manufacturer for more information.            |
+| IX7012      | NDA Parts, contact the manufacturer for more information.  |
 
 ## WCH
 
@@ -107,7 +107,7 @@ Datasheets and References
 
 | Part Number | Product Link |
 | ----------- | ------------ |
-| MT3410LB    | No official product page. Contact the manufacturer for more information.            |
+| MT3410LB    | No official product page. Contact the manufacturer for more information.  |
 
 ## Silergy
 
